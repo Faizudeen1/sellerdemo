@@ -163,3 +163,16 @@ footer{
 	padding-bottom:3px;
 	line-height:1.5;
 }
+
+@media screen and (max-width: 500px){
+	body{
+	width:100%;
+}
+.page{
+	margin:auto;
+	position:relative;
+	padding:5px;
+	width:100%;
+}
+	
+}
