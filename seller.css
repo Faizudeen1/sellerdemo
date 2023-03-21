@@ -1,0 +1,166 @@
+body{
+	margin:0;
+	padding:0;
+	font-size:16px;
+	font-weight:300;
+	width:100%;
+	background:rgb(204,204,204);
+}
+.page{
+	background:#fff;
+	display:block;
+	margin:3rem auto 3rem auto;
+	position:relative;
+	box-shadow: 0 0 0.5cm rgba(0,0,0,0.1);
+	padding:10px;
+	background-image: url('images/15782147_5671773.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity:0.9;
+}
+.page[size="A4"]{
+	width:21cm;
+	height:29.7cm;
+	overflow-x:hidden;
+}
+.logo{
+	margin-top:30px;
+	margin-left:50px;
+	float:left;
+}
+.bill-no{
+	float:right;
+	padding-top:10px;
+	margin-right:70px;
+	font-size:22px;
+}
+.bottom-section{
+	clear:both;
+}
+.address{
+	float:left;
+	margin-top:-30px;
+	margin-left:20px;
+	padding-right:30px;
+	margin-bottom:-10px;
+	
+}
+.Divide{
+	float:left;
+}
+.email{
+	float:left;
+	margin-left:20px;
+	padding-right:30px;
+	font-size:17px;
+}
+.phone{
+	float:left;
+	margin-left:20px;
+	font-size:17px;
+	padding-right:72px;
+	padding-bottom:5px;
+}
+.client{
+	font-size:17px;
+	color:#ffff;
+	background-color:black;
+	margin-top:-5px;
+	padding-left:20px;
+	
+}
+.client-address{
+	float:left;
+	margin-top:-20px;
+	margin-left:20px;
+	padding-right:50px;
+	margin-bottom:-10px;
+}
+.client-email{
+	float:left;
+	margin-left:20px;
+	padding-right:50px;
+	font-size:17px;
+}
+.client-phone{
+	float:left;
+	margin-left:20px;
+	font-size:17px;
+	padding-right:85px;
+	padding-bottom:15px;
+}
+.table1 table, th {
+	margin-top:15px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size:20px;
+  color:#fff;
+  background-color:black;
+}
+ table, td {
+	font-size:15px;
+	color:black;
+  background-color:#fff;
+	
+}
+th, td {
+  padding: 12px;
+  text-align: left; 
+}
+
+.date{
+	font-size:15px;
+	color:#ffff;
+	background-color:black;
+	margin-top:20px;
+	padding-left:550px;
+	
+}
+.Arrive{
+	float:left;
+	margin-top:-10px;
+	margin-left:70px;
+	padding-right:50px;
+	font-size:17px;
+}
+.depart{
+	float:left;
+	margin-left:20px;
+	padding-right:40px;
+	font-size:17px;
+	margin-top:-10px;
+}
+.total{
+	float:left;
+	margin-left:20px;
+	font-size:17px;
+	padding-right:72px;
+	padding-bottom:30px;
+	margin-top:-10px;
+}
+.report table, th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+
+.signature{
+	float:left;
+	padding-left:100px;
+	padding-bottom:50px;
+}
+.signature-client{
+	float:right;
+	padding-right:100px;
+	padding-bottom:50px;
+}
+footer{
+	clear:both;
+	color:#fff;
+	background-color:black;
+	font-size:12px;
+	text-align:center;
+	padding-top:3px;
+	padding-bottom:3px;
+	line-height:1.5;
+}
