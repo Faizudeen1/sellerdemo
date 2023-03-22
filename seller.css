@@ -198,7 +198,7 @@ footer{
 .client, h3 {
 	float:left;
 	}
-.date{
+.date ,h3{
 	font-size:15px;
 	padding-left:100px;
 	
