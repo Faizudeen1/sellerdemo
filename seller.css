@@ -189,5 +189,7 @@ footer{
 .client{
 	font-size:15px;
 	float:left;
+	width:100%;
+	clear:both;
 }		
 }
