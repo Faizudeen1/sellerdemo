@@ -190,7 +190,23 @@ footer{
 	font-size:15px;
 	width:100%;	
 }
-	.client, h3 {
+.client, h3 {
 	float:left;
 	}
+.Arrive{
+	margin-left:30px;
+	padding-right:30px;
+	font-size:15px;
+}
+.depart{
+	margin-left:20px;
+	padding-right:30px;
+	font-size:15px;
+}
+.total{
+	margin-left:20px;
+	font-size:15px;
+	padding-right:0px;
+}	
+	
 }
