@@ -198,6 +198,11 @@ footer{
 .client, h3 {
 	float:left;
 	}
+.date{
+	font-size:15px;
+	padding-left:100px;
+	
+}	
 .Arrive{
 	margin-left:30px;
 	padding-right:30px;
