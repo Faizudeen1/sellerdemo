@@ -198,28 +198,6 @@ footer{
 .client, h3 {
 	float:left;
 	}
-.date ,h3{
-	font-size:15px;
-	padding-left:100px;
 	
-}	
-.Arrive{
-	margin-left:60px;
-	padding-right:30px;
-	font-size:15px;
-	margin-top:10px;
-}
-.depart{
-	margin-left:20px;
-	padding-right:30px;
-	font-size:15px;
-	margin-top:10px;
-}
-.total{
-	margin-left:20px;
-	font-size:15px;
-	padding-right:0px;
-	margin-top:10px;
-}	
 	
 }
