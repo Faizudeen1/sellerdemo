@@ -198,6 +198,23 @@ footer{
 .client, h3 {
 	float:left;
 	}
+	.client-address{
+	margin-top:-10px;
+	margin-left:20px;
+	padding-right:40px;
+	padding-bottom:0px;
+}	
+.client-email{
 	
+	margin-left:10px;
+	padding-right:30px;
+	font-size:15px;
+}
+.client-phone{
+	margin-left:10px;
+	font-size:15px;
+	padding-right:0px;
+	padding-bottom:0px;
+}
 	
 }
