@@ -174,5 +174,9 @@ footer{
 	padding:5px;
 	width:100%;
 }
-	
+.client{
+	font-size:15px;
+	width:100%;
+	float:left;
+}		
 }
